@@ -1,4 +1,4 @@
-This is a Old Yukki Music source code, Check out the new version here: https://github.com/NotReallyShikhar/YukkiMusicBot
+Lo This is a Old Yukki Music source code, Check out the new version here: https://github.com/NotReallyShikhar/YukkiMusicBot
 
 Credit for [@TeamYukki](https://t.me/OfficialYukki) as the owner & creator of this Repository.
 
@@ -10,7 +10,7 @@ Generate & Choose pyrogram session string for session var.
 
 ### Deploy To Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?https://github.com/benkorsan/YukkiMusic-Old)
 
 This repo has blacklisted by Heroku, to deploy this repo you need to fork this repo first by pressing the fork button in the upper right corner of this page and then clicking the deploy button above.
 
