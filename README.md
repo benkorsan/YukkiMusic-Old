@@ -3,7 +3,10 @@ Lo This is a Old Yukki Music source code, Check out the new version here: https:
 Credit for [@TeamYukki](https://t.me/OfficialYukki) as the owner & creator of this Repository.
 
 ### String Session
+ork this repository and change name of `sample_config.py` to `config.py`
+Then you will need get a session string, copy it, then press heroku deploy button.
 
+[![Deploy](https://github.com/benkorsan/YukkiMusic-Old/tree/master)
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/Session-Generator?lite=1&outputonly=1#main.py)
 
 Generate & Choose pyrogram session string for session var.
